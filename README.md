@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate Front End developer.</h3>
+<h3 align="left">I'm a passionate Front End React Developer.</h3>
 
 ###
 
