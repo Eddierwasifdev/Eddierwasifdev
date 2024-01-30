@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left"> • 🌎 I'm from Philippines, Davao.<br> • 💼 I am currently seeking job opportunities as a developer for interesting projects. <br>• 🌟 Let's connect! Visit my portfolio website at <a href="https://eddierwasif.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio.</a> </p>
+<p align="left"> • 🌎 I'm from Philippines, Davao.<br> • 💼 I am currently seeking job opportunities as a developer for interesting projects. <br>• 🌟 Let's connect! Visit my portfolio website at <a href="https://eddierwasif.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio.</a>
+</p>
 
 
 
